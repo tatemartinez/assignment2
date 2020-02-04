@@ -1,3 +1,7 @@
-  h1 {color:red}
+h1,
+h2 {color:red}
             h2 {color:royalblue}
             h1,h2 {font-family:sans-serif}
+h1,h2{background-color: white}
+body{background-color: deepskyblue}
+main{background-color: grey}
