@@ -1,7 +1,44 @@
 h1,
-h2,h3{color:purple}
-            h2 {color:royalblue}
-            h1,h2 {font-family:sans-serif}
-h1,h2{background-color: white}
-body{background-color: deepskyblue}
-main{background-color: grey}'
+h2,
+h3 {
+    color: purple;
+}
+
+h2 {
+    color: royalblue;
+}
+
+h1,
+h2 {
+    font-family: sans-serif;
+}
+
+h1,
+h2 {
+    background-color: white;
+}
+
+body {
+    background-color: deepskyblue;
+}
+
+main {
+    background-color: grey;
+}
+
+#mystyle {
+    font-size: 2.5em;
+    border: 6px solid blue; 
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.mystyle {
+    font-size: 2.5em;
+    border: 6px solid blue; 
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
