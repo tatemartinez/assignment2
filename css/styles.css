@@ -1,5 +1,5 @@
 html {
-    color:#ccc;
+    color:#d54124;
     box-sizing: border-box;
     margin:0;
     }
@@ -10,7 +10,7 @@ h3 {
 }
 
 h2 {
-    color: royalblue;
+    color: blue;
 }
 
 h1,
@@ -24,13 +24,14 @@ h2 {
 }
 
 body {
-    background-color: deepskyblue;
+/*    background-image: url("../images/water.jpg");*/
+    background-image: linear-gradient(rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)),url("../images/water.jpg");
+    
+    background size:cover;
+    background position: center;
+    min-height: 100vh; 
 }
-
-main {
-    background-color: grey;
-}
-
 #mystyle {
     font-size: 2.5em;
     border: 6px solid blue; 
