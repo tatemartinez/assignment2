@@ -9,6 +9,19 @@ h3 {
     color: purple;
 }
 
+header nav a:hover{
+    color:azure;    
+}
+
+div .shaq {
+    padding:200px 
+}
+
+
+main p a:hover {
+    color:azure;
+}
+
 h2 {
     color: blue;
 }
